@@ -1,17 +1,17 @@
-2023-01-09
+2023-01-14
   
 CLI: revanced-cli-2.20.0-all.jar  
-Integrations: revanced-integrations-0.92.2-v0.92.2.apk  
-Patches: revanced-patches-2.153.0.jar  
-[Patches Changelog](https://github.com/revanced/revanced-patches/releases/tag/v2.153.0)  
+Integrations: revanced-integrations-0.93.0-v0.93.0.apk  
+Patches: revanced-patches-2.154.0.jar  
+[Patches Changelog](https://github.com/revanced/revanced-patches/releases/tag/v2.154.0)  
 
 YouTube version: 17.49.37  
 
-Music (arm64-v8a) version: 5.36.51  
+Music (arm64-v8a) version: 5.39.52  
 
-Music (arm-v7a) version: 5.36.51  
+Music (arm-v7a) version: 5.39.52  
 
-Twitter version: 9.70.0-release.0  
+Twitter version: 9.71.0-release.0  
 
 Reddit version: 2022.45.0  
 
